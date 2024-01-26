@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the [CMU Computational Biology Department retreat](https://cbd.cmu.edu/).
+I gave a talk at the [CMU Computational Biology Department retreat]().
