@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a poster at the the [8th Cold Spring Harbor Laboratory meeting on Network Biology](https://meetings.cshl.edu/meetings.aspx?meet=network&year=23).
+I presented a poster at the [8th Cold Spring Harbor Laboratory meeting on Network Biology](https://meetings.cshl.edu/meetings.aspx?meet=network&year=23).
