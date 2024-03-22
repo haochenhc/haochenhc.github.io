@@ -18,7 +18,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: False # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page 
 ---
 
 I am a Postdoctoral Fellow in the [Ray and Stephanie Lane Computational Biology Department]() of [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Professors [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/) and [Jose Lugo-Martinez](https://www.andrew.cmu.edu/user/jlugomar/). Prior to that, I completed my PhD in Computer Science at the [University of California, Riverside](https://www1.cs.ucr.edu/), where I was supervised by Professor [Tao Jiang](https://www.cs.ucr.edu/~jiang/).
