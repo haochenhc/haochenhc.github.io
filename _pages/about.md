@@ -27,4 +27,4 @@ My research interests lie broadly in computational biology and bioinformatics. C
 
 During my PhD, I was a research intern with [Novartis Institutes for BioMedical Research](https://www.linkedin.com/company/novartis/), where I worked on gene signature representation for drug discovery. I also interned at [Google](https://www.linkedin.com/company/google/), working on deep learning topics.
 
-<span style="color: red;">I am currently on the job market and actively seeking a Tenure-track Assistant Professor position.</span>
+<span style="color: red;">I am moving to University of Illinois Chicago as an Assistant Professor in October 2024. I am looking for self-motivated PhD students (Fall 2025). Feel free to contact if you are interested to join!</span>
