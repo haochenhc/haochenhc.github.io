@@ -28,4 +28,4 @@ nav_order: 6
   #    <p>Your City, State 12345</p>
 ---
 
-Opportunities are now open for motivated PhD, Master's, and undergraduate students to join our Lab. Please reach out!
+Opportunities are now open for motivated PhD, Master's, and undergraduate students to join our lab. Please reach out!
