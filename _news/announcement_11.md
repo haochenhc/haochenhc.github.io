@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk with the title "Machine learning for spatial mapping of human tissue and disease at single-cell resolution" at the Westlake University.
+I gave a talk at the Westlake University.
