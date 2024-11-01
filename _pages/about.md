@@ -9,11 +9,11 @@ profile:
   image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gates & Hillman Centers (GHC) 7601,</p>
-    <p>Computational Biology Department,</p>
-    <p>Carnegie Mellon University,</p>
-    <p>Pittsburgh, PA 15213</p>
-    <p>hchen4 AT andrew DOT cmu DOT edu</p>
+    <p>SEO 1220,</p>
+    <p>Department of Computer Science,</p>
+    <p>University of Illinois Chicago,</p>
+    <p>Chicago, IL 60607</p>
+    <p>chenhao AT uic DOT edu</p>
 
 news: true # includes a list of news items
 latest_posts: False # includes a list of the newest posts
