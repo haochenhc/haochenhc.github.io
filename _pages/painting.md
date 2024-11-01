@@ -1,5 +1,6 @@
 ---
-layout: profiles
+#layout: profiles
+layout: page
 permalink: /group/
 title: Group
 description:
