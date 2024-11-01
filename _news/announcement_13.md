@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[scResolve]((https://doi.org/10.1016/j.crmeth.2024.100864)) is presented at ISMB 2024 in Montreal.
+[scResolve](https://doi.org/10.1016/j.crmeth.2024.100864) is presented at ISMB 2024 in Montreal.
