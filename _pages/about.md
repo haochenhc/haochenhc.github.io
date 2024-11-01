@@ -21,7 +21,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor in the Department of Computer Science at the University of Illinois Chicago, and a core member of the UIC Center for Bioinformatics and Quantitative Biology (CBQB).
+I am an assistant professor in the [Department of Computer Science](https://cs.uic.edu/) at the [University of Illinois Chicago](https://www.uic.edu/), and a core member of the UIC [Center for Bioinformatics and Quantitative Biology (CBQB)](https://cbqb.uic.edu/).
 
 Prior to that, I completed my postdoctoral research in the [Ray and Stephanie Lane Computational Biology Department]() of [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Professors [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj/) and [Jose Lugo-Martinez](https://www.andrew.cmu.edu/user/jlugomar/). I obtained my PhD in Computer Science at the [University of California, Riverside](https://www1.cs.ucr.edu/), where I was supervised by Professor [Tao Jiang](https://www.cs.ucr.edu/~jiang/).
 
