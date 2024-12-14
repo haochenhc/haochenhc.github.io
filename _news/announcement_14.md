@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted in principle in STAR Protocols.
+One paper accepted in principle in [STAR Protocols](https://www.cell.com/star-protocols/home).
