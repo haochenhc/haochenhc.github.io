@@ -74,73 +74,102 @@ pagination:
   </div>
 
 
-
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
 
   <header class="post-header about">
-    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/University_of_Illinois_at_Chicago_circle_logo.svg/1200px-University_of_Illinois_at_Chicago_circle_logo.svg.png", height="130">
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/University_of_Illinois_at_Chicago_circle_logo.svg/1200px-University_of_Illinois_at_Chicago_circle_logo.svg.png", height="120">
     <h1 class="post-title"><b>A</b>lgorithms in <b>C</b>omputational <b>M</b>olecular <b>B</b>iology</h1>
     <h2 class="post-description clearfix">CS 502 • Spring 2025 • University of Illinois Chicago</h2>
   </header>
 
+  <!-- Staff  -->
+  <div class="instructors clearfix">
+
+  <div class="instructor-profile-two-col">
+    <a href="https://www.cs.cmu.edu/~katef/" target="_blank"><img src="/assets/img/prof_pic_1.jpg" /></a>
+    <ul class="instructor-info">
+      <li><span>Instructor</span> <a href="https://www.cs.cmu.edu/~katef/" target="_blank">Hao Chen</a></li>
+      <li><span>Email:</span> chenhao [AT] uic [DOT] edu</li>
+      <li><span>Office hours:</span> Tuesday, Thursday 12:00 noon - 12:30PM</li>
+    </ul>
+  </div>
+  </div>
+
+<hr />
+
   <article class="post-content <b>D</b>eep <b>R</b>einforcement <b>L</b>earning clearfix">
+    <p><strong>Introduction</strong></p>
     <p>The revolutionary development of genomics has led to an immense volume of digital genetic information, offering vast opportunities for biological and medical discoveries. To analyze this data, advanced computational methods have become essential, giving rise to the field of Computational Molecular Biology. This field attracts computer scientists because genes, proteins, and genomes can be viewed as strings of symbols, making techniques from text processing applicable. Moreover, large-scale projects like the Human Genome Project and ENCODE have generated massive datasets, posing complex computational challenges. Despite heuristic solutions, many optimization problems remain intractable, with limited proofs of their accuracy.
 </p>
 <p>
 The course will be focused on the design and analysis of efficient (combinatorial) algorithms for important problems in computational molecular biology. The format of the course will include lectures by the instructor, class discussion, directed reading, and student presentations or projects. The exact format will depend on the size of enrolment and student background. We emphasize mathematics, algorithms, and data structures instead of biological implications and applications, although some relevant biological background and motivations will be discussed. We may also have some guest speakers to talk about their research problems.
 </p>
 
-<p><strong>Instructor</strong></p>
-<p>Hao Chen, Assistant Prof. @ UIC CS</p>
-<p>chenhao[AT]uic[dot]edu</p>
-
-
-<p>Logistics</p>
-<ul>
-  <li>Implement and experiment with existing state-of-the-art methods for learning behavioral policies supervised by reinforcement, demonstrations and/or intrinsic curiosity.</li>
-  <li>Evaluate the sample complexity, generalization and generality of these algorithms.</li>
-  <li>Understand research papers in the field of robotic learning.</li>
-  <li>Try out ideas/extensions on existing methods.</li>
-</ul>
-
-<p><strong>Prerequisite Knowledge:</strong></p>
-
-<p>Students should have a solid understanding of the following areas</p>
-<ul>
-  <li>Algorithms: e.g., What problem does Dijkstra’s algorithm solve?</li>
-  <li>Probability: e.g., What is Bayes rule? How do you normalize a distribution?</li>
-  <li>Computer vision: convolutional networks, object detection architectures, LSTMs, attention models</li>
-  <li>Deep Learning: familiarity  with TensorFlow and/or Pytorch.</li>
-  <li>Matrix Calculus: e.g., What are derivatives of matrix-matrix and matrix-vector products? What is the multivariate chain rule?</li>
-  <li>Programming: e.g., What are classes and inheritance? How do you structure read data from files? How do you plot figures to visualize results?</li>
-  <li>Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?</li>
-</ul>
-
-<p><strong>Prerequisites:</strong></p>
-<ul>
-  <li>Prerequisites: 10601 introduction to machine learning</li>
-  <li>Minimum Grades: B in 10601</li>
-  <li>Corequisites: None</li>
-  <li>Anti-requisites: None</li>
-  <li>Anti-req Prohibits: None</li>
-</ul>
-
 <hr />
 
+<p><strong>Logistics</strong></p>
 <ul>
-  <li><strong>Lectures:</strong> Tuesday, Thursday 10:40 AM - 12:00 noon</li>
-  <li><strong>Recitations:</strong> Friday 12:30 PM - 1:50 PM
-<!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} --></li>
-  <li><strong>Discussion:</strong> <a href="https://piazza.com" target="\_blank">Piazza</a></li>
-  <li><strong>HW submission:</strong> <a href="https://www.gradescope.com" target="\_blank">Gradescope</a>
+<p>
+<li><strong>Lectures:</strong> TR 2:00-3:15pm in Lecture Center A6</li>
+<li><strong>HW submission:</strong> <a href="https://www.gradescope.com" target="\_blank">Gradescope</a>
 <!-- - **Contact:** For external enquiries, personal matters or in emergencies, you can email Brynn at
 bedmunds@andrew.cmu.edu. --></li>
+</p>
+</ul>
+
+<p><strong>Textbooks</strong></p>
+
+<p>No textbook is required, but the following textbooks may be helpful as references.</p>
+<ul>
+  <li>Bioinformatics Algorithms: An Active Learning Approach
+Phillip Compeau and Pavel Pevzner
+Active Learning Publishers, 2018
+</li>
+  <li>An Introduction to Bioinformatics Algorithms
+Neil C. Jones and Pavel Pevzner
+The MIT Press Series on Computational Molecular Biology, 2004
+</li>
+  <li>Introduction to Computational Biology: Maps, Sequences and Genomes
+Michael S. Waterman
+Chapman Hall, 1995
+</li>
+</ul>
+
+<p><strong>Prerequisites</strong></p>
+<ul>
+  <li>Prerequisites: CS 401</li>
+  <li>Recommended background: CS 501 and some exposure to basic biology.</li>
+</ul>
+
+<p><strong>Syllabus</strong></p>
+<ul>
+  <li>Introductory lecture (1 lecture)</li>
+  <li>DNA mapping (1.5 lecture)</li>
+  <li>Motif finding (2 lectures)</li>
+  <li>Genome rearrangements (2 lectures)</li>
+  <li>Gene prediction (1 lecture)</li>
+  <li>Gene prediction (1 lecture)</li>
+  <li>Gene prediction (1 lecture)</li>
+  <li>Gene prediction (1 lecture)</li>
+  <li>Gene prediction (1 lecture)</li>
+</li>
 </ul>
 
 <hr />
 
+<p><strong>Grading</strong></p>
+<p>Grading will be based upon three problem sets containing either programming questions or written questions (50%), a presentation (40%), and participation (10%). Attendance in lecture is important as the class moves quickly and you will need to be present.
+</p>
+
+<p><strong>Presentation</strong></p>
+<p>Choose a paper from the Proceedings of RECOMB 2023 or 2024. Reserve your spot early using the provided sign-up sheet. Presentation Schedule: Presentations will begin on April 1 and continue through the last week of instruction, ending on Thursday, May 1. Email your PowerPoint file to me at least two days before your scheduled presentation. Each presentation should last approximately 20 minutes, followed by 5 minutes for audience questions.
+</p>
+<p>
+Ensure your presentation covers the following sections: (1) Biological background (~3 minutes): introduce the biological context. For example, if the paper discusses protein structure prediction, explain what proteins are, the significance of their structure, how it is determined, and why it matters. (2) Computational problem overview (~2 minutes): highlight the main computational problems addressed in the paper and the prediction target. (3) Existing approaches (~2 minutes): briefly discuss existing algorithms or methods used to solve the stated problem. (4) Proposed method (~5 minutes): describe the method introduced in the paper in detail. (5) Results (~5 minutes): summarize the key findings and results presented in the paper. (6) Future directions (~3 minutes): conclude with potential future research directions based on the paper's work.
+</p>
+  </article>
   </article>
 
 
