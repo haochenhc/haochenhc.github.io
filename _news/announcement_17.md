@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at [CBQB seminar](https://cbqb.uic.edu/events-and-seminars/).
+I gave a talk titled "Dissecting the spatiotemporal dynamics of single cells using machine learning" at [CBQB seminar](https://cbqb.uic.edu/events-and-seminars/).
