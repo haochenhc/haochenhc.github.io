@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at MCBIOS 2025.
+Invited talk at MCBIOS 2025 in Salt Lake City.
