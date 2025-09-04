@@ -30,10 +30,8 @@ nav_order: 6
 
 ### PhD Students
 * Xiyao Cheng (PhD student in CS, since Fall 2025)
-* Yashaswi Galhotra (PhD student in CS, since Fall 2025; co-advised with Dr. Sourav Medya)
-
-### Master's Students at UIC
-* Aashik Prosper (MS student in CS)
 
 ### Visiting Students
 * Hongliang (Varian) Zhou (CMU MSCB Student)
+* Junyi Chen (Northwestern)
+* Zhaoyu Gu (ZJU)

@@ -9,7 +9,7 @@ profile:
   image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>SEO 1220,</p>
+    <p>CDRLC 3452,</p>
     <p>Department of Computer Science,</p>
     <p>University of Illinois Chicago,</p>
     <p>Chicago, IL 60607</p>
