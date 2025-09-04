@@ -32,6 +32,6 @@ nav_order: 6
 * Xiyao Cheng (PhD student in CS, since Fall 2025)
 
 ### Visiting Students
-* Hongliang (Varian) Zhou (CMU MSCB)
+* Varian Zhou (CMU MSCB)
 * Junyi Chen (Northwestern)
 * Zhaoyu Gu (ZJU)
