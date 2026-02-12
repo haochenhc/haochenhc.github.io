@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk and presented a poster at the the [TriState SenNet Meeting in Rochester, NY](https://tristatesennet.pitt.edu/).
+I gave a talk and presented a poster at the the [TriState SenNet Meeting in Rochester, NY].

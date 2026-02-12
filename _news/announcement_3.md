@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The poster from our scResolve project received the poster award at the [TriState SenNet Annual Meeting](https://tristatesennet.pitt.edu/).
+The poster from our scResolve project received the poster award at the [TriState SenNet Annual Meeting].
