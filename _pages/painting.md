@@ -30,8 +30,16 @@ nav_order: 6
 
 ### PhD Students
 * Xiyao Cheng (PhD student in CS, since Fall 2025)
+* Yusen Liu (PhD student in CS, since Spring 2026)
+* Junkai Zhang (PhD student in CS, since Spring 2026)
+
+### Master's Students
+* Cody Hasty (M.S. in CS, since Spring 2026)
 
 ### Visiting Students
-* Hongliang Varian Zhou (CMU MSCB)
-* Junyi Chen (Northwestern)
-* Zhaoyu Gu (ZJU)
+* Varian Zhou
+* Zhaoyu Gu
+* Yao Xiao
+
+### Alumni
+* Junyi Chen (Visiting MS student, next position at Penske)
